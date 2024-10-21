@@ -140,6 +140,6 @@ def perimeter(a):
 
 \section{Ссылка на проект}
 
-По этой \href{https://github.com/Reetsuki/Laboratory-Work-3/edit/main/LaboratoryWork3.tex}{ссылке} можно перейти на исходный код этого документа в LaTeX.
+По этой \href{https://github.com/Reetsuki/Laboratory-Work-3/edit/main/LaboratoryWork3.tex}{ссылке} можно перейти на исходный код этого документа в LaTeX. Перейдите для большей наглядности в документ LaboratoryWork3.tex
 
 \end{document}
